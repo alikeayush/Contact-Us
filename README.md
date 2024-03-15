@@ -23,9 +23,5 @@ The goal of this project was to implement a contact page in a React application,
 
 The project structure follows the typical layout of a React application. The contact page components and styles are organized within the `src/components` directory. The main component responsible for rendering the contact page is `ContactPage.js`.
 
-## Getting Started
 
-To run this project locally, follow these steps:
-
-1. Clone the repository to your local machine:
 
