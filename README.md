@@ -1,27 +1,26 @@
-# Contact Page Project
+# QR Code Generator
 
-This project is a part of a React application where a contact page was created based on a Figma design. The contact page allows users to send inquiries or messages to the website owner. This README provides an overview of the project, instructions for running the application, and additional details for developers.
+This project is a simple QR Code Generator that can generate QR codes for any text or link. It utilizes the Free QR Code Generator API to generate QR codes in image format. The generated QR code can be downloaded and used as needed.
 
-## Project Overview
+## Features
 
-The goal of this project was to implement a contact page in a React application, adhering to a design provided in Figma. The contact page includes form fields for users to input their name, email, subject, and message. Upon submission, the form sends the user's message to the website owner via email or another backend service.
-
-### Features
-
-- Input fields for name, email, subject, and message.
-- Validation to ensure all required fields are filled out.
-- Submission of the form to send inquiries/messages.
+- QR Code Generation: Allows users to input any text or link and generates a QR code for it.
+- Image Format: The generated QR code is provided in image format, making it easy to download and use in various applications.
+- Simple Interface: The interface is clean and easy to use, with clear instructions for generating QR codes.
 
 ## Technologies Used
 
-- React.js
-- Figma (for design reference)
-- HTML
-- CSS
+- HTML: Used for structuring the content and layout of the web page.
+- CSS: Used for styling the elements and applying visual enhancements to the page.
+- JavaScript: Used for handling user interactions and making API requests to generate QR codes.
+- Free QR Code Generator API: Utilized to generate QR codes in image format.
 
-## Project Structure
+## How to Use
 
-The project structure follows the typical layout of a React application. The contact page components and styles are organized within the `src/components` directory. The main component responsible for rendering the contact page is `ContactPage.js`.
-
+1. Open the `index.html` file in your web browser.
+2. Enter the text or link for which you want to generate a QR code in the input field.
+3. Click the "Generate QR Code" button.
+4. The generated QR code will be displayed on the page.
+5. You can download the QR code image by right-clicking on it and selecting "Save image as".
 
 
