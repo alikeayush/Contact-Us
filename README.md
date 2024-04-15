@@ -20,7 +20,6 @@ This project is a simple QR Code Generator that can generate QR codes for any te
 1. Open the `index.html` file in your web browser.
 2. Enter the text or link for which you want to generate a QR code in the input field.
 3. Click the "Generate QR Code" button.
-4. The generated QR code will be displayed on the page.
-5. You can download the QR code image by right-clicking on it and selecting "Save image as".
+4. You can download the QR code image by right-clicking on it and selecting "Save image as".
 
 
